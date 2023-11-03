@@ -1,4 +1,4 @@
 # multi-project
 
 # Epam Training - Lab
-** Gradle Task **
+**Gradle Task**
